@@ -4,8 +4,8 @@ public class Music {
     private int id;
     private String name;
     private String author;
-    private String year;
-    private int album;
+    private int year;
+    private String album;
     private String country;
 
     public Music() {}
