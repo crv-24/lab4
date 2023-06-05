@@ -1,4 +1,4 @@
-packalbum com.example.databasemusic;
+package com.example.databasemusic;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
