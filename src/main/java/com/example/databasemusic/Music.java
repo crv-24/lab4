@@ -1,4 +1,4 @@
-packalbum com.example.databasemusic;
+package com.example.databasemusic;
 
 public class Music {
     private int id;
